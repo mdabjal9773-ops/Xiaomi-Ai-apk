@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Xiaomi AI</string>
+    <string name="assistant_title">Xiaomi AI</string>
+    <string name="assistant_subtitle">আপনার ব্যক্তিগত বাংলা AI সহকারী ও সঙ্গী</string>
+    <string name="greeting_initial">হ্যালো! আমি আপনার প্রিয় Xiaomi AI সহকারী। কেমন আছেন? আমি আপনাকে কী কীভাবে সাহায্য করতে পারি?</string>
+    <string name="input_placeholder">এখানে আপনার প্রশ্ন বা মনের কথা লিখুন…</string>
+    <string name="send">পাঠান</string>
+    <string name="waiting">ভাবছি…</string>
+    <string name="listen_voice">কণ্ঠে কথা বলুন</string>
+    <string name="listening_active">শুনছি… বাংলায় বলুন</string>
+    <string name="stop_listening">থামুন</string>
+    <string name="service_running_title">Xiaomi AI সক্রিয়</string>
+    <string name="service_running_desc">ভয়েস রিকগনিশন ও সহকারী সক্রিয় আছে</string>
+    <string name="clear_chat">নতুন কথোপকথন</string>
+    <string name="speak_response">উত্তর শুনুন</string>
+    <string name="stop_speaking">পড়া থামান</string>
+    <string name="age_gate_title">১৮+ বয়স নিশ্চিতকরণ</string>
+    <string name="age_gate_subtitle">Age Verification Gate</string>
+    <string name="age_gate_description">Xiaomi AI অ্যাপটিতে ১৮+ প্রাপ্তবয়স্ক নারী AI চরিত্র ও খোলামেলা কথোপকথনের ফিচার রয়েছে। অ্যাপটি ব্যবহারের পূর্বে আপনার বয়স ১৮ বছর বা তার বেশি কিনা নিশ্চিত করুন।</string>
+    <string name="age_gate_checkbox">আমার বয়স ১৮ বছর বা তার বেশি (I am 18+ years old)</string>
+    <string name="age_gate_confirm">নিশ্চিত করুন (Confirm)</string>
+    <string name="age_gate_exit">বের হয়ে যান (Exit)</string>
+</resources>

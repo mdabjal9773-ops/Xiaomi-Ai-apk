@@ -1,0 +1,6 @@
+{
+  "name": "Xiaomi AI",
+  "description": "Xiaomi AI Assistant in Bengali (বাংলা) with voice chat, speech recognition, Bengali TTS, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
